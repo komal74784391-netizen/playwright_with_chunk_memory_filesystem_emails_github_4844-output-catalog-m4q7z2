@@ -1,7 +1,7 @@
 {
   "cycle": 2026,
   "schema_version": "1.0",
-  "last_updated": "2026-11-10",
+  "last_updated": "2026-10-30",
   "outputs": [
     {
       "project_key": "adaptive-routing",
@@ -12,8 +12,8 @@
         "Debra Sanders",
         "Marcus Oyelaran"
       ],
-      "code_url": "https://github.com/komal74784391-netizen/playwright_with_chunk_memory_filesystem_emails_github_4844-adaptive-routing-code-m4q7z2",
-      "disclosure_status": "complete"
+      "code_url": "",
+      "disclosure_status": "pending"
     },
     {
       "project_key": "longctx-bench",
@@ -24,20 +24,20 @@
         "Tomas Lindqvist",
         "Debra Sanders"
       ],
-      "code_url": "https://github.com/komal74784391-netizen/playwright_with_chunk_memory_filesystem_emails_github_4844-longctx-bench-code-m4q7z2",
-      "disclosure_status": "complete"
+      "code_url": "",
+      "disclosure_status": "pending"
     },
     {
       "project_key": "multimodal-distill",
       "title": "Distilling Multimodal Retrievers with Cross-Modal Attention Transfer",
-      "venue": "International Conference on Multimodal Information Systems (ICMIS 2026)",
+      "venue": "International Conference on Multimodal Information Systems (ICMIS 2026) - under review",
       "authors": [
         "Hana Sato",
         "Ravi Menon",
         "Debra Sanders"
       ],
       "code_url": "",
-      "disclosure_status": "complete"
+      "disclosure_status": "pending"
     }
   ]
 }
