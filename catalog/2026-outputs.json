@@ -1,0 +1,43 @@
+{
+  "cycle": 2026,
+  "schema_version": "1.0",
+  "last_updated": "2026-10-30",
+  "outputs": [
+    {
+      "project_key": "adaptive-routing",
+      "title": "Adaptive Sparsity Routing for Efficient Document Ranking",
+      "venue": "Northern Lights Information Retrieval Symposium (NLIRS 2026)",
+      "authors": [
+        "Priya Nandakumar",
+        "Debra Sanders",
+        "Marcus Oyelaran"
+      ],
+      "code_url": "",
+      "disclosure_status": "pending"
+    },
+    {
+      "project_key": "longctx-bench",
+      "title": "A Compression-Aware Benchmark for Long-Context Language Models",
+      "venue": "Symposium on Empirical Language Technologies (SELT 2026)",
+      "authors": [
+        "Ifeoma Adeyemi",
+        "Tomas Lindqvist",
+        "Debra Sanders"
+      ],
+      "code_url": "",
+      "disclosure_status": "pending"
+    },
+    {
+      "project_key": "multimodal-distill",
+      "title": "Distilling Multimodal Retrievers with Cross-Modal Attention Transfer",
+      "venue": "International Conference on Multimodal Information Systems (ICMIS 2026) - under review",
+      "authors": [
+        "Hana Sato",
+        "Ravi Menon",
+        "Debra Sanders"
+      ],
+      "code_url": "",
+      "disclosure_status": "pending"
+    }
+  ]
+}

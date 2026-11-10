@@ -1,0 +1,29 @@
+{
+  "cycle": 2025,
+  "schema_version": "1.0",
+  "last_updated": "2025-11-21",
+  "outputs": [
+    {
+      "project_key": "graph-memory-probe",
+      "title": "Probing Structured Memory in Retrieval-Augmented Assistants",
+      "venue": "Workshop on Applied Knowledge Systems (WAKS 2025)",
+      "authors": [
+        "Marcus Oyelaran",
+        "Debra Sanders"
+      ],
+      "code_url": "https://github.com/komal74784391-netizen/pw4844-graph-memory-probe-code-m4q7z2",
+      "disclosure_status": "complete"
+    },
+    {
+      "project_key": "tabular-drift-audit",
+      "title": "Distribution Drift Audits for Tabular Decision Models",
+      "venue": "Journal of Applied Learning Systems 4(2)",
+      "authors": [
+        "Ifeoma Adeyemi",
+        "Tomas Lindqvist"
+      ],
+      "code_url": "",
+      "disclosure_status": "complete"
+    }
+  ]
+}
